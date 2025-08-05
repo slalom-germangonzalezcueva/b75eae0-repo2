@@ -1,6 +1,6 @@
 {
   "name": "b75eae0-repo2-nodejs-backend-app",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A simple Node.js backend application with a healthcheck endpoint.",
   "main": "src/app.ts",
   "scripts": {
